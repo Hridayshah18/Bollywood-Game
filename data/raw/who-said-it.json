@@ -1,0 +1,502 @@
+[
+  {
+    "id": "WS_001",
+    "dialogue": "All Izz Well",
+    "correct_actor": "Aamir Khan"
+  },
+  {
+    "id": "WS_002",
+    "dialogue": "Bete ko haath lagane se pehle baap se baat kar",
+    "correct_actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "WS_003",
+    "dialogue": "Party Pathaan ke ghar pe rakhoge",
+    "correct_actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "WS_004",
+    "dialogue": "Mhari chhoriyan chhoron se kam hain ke",
+    "correct_actor": "Aamir Khan"
+  },
+  {
+    "id": "WS_005",
+    "dialogue": "Tumhara result decide nahi karta tum loser ho ki nahi",
+    "correct_actor": "Sushant Singh Rajput"
+  },
+  {
+    "id": "WS_006",
+    "dialogue": "Wrong Number",
+    "correct_actor": "Aamir Khan"
+  },
+  {
+    "id": "WS_007",
+    "dialogue": "Aurat hi aurat ki dushman hoti hai",
+    "correct_actor": "Vidya Balan"
+  },
+  {
+    "id": "WS_008",
+    "dialogue": "Main udna chahta hoon",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_009",
+    "dialogue": "Insaan ko dibbe mein sirf tab hona chahiye",
+    "correct_actor": "Hrithik Roshan"
+  },
+  {
+    "id": "WS_010",
+    "dialogue": "Picture abhi baaki hai mere dost",
+    "correct_actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "WS_011",
+    "dialogue": "Don ko pakadna mushkil hi nahi namumkin hai",
+    "correct_actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "WS_012",
+    "dialogue": "Kabhi kabhi dushman ko harane ke liye",
+    "correct_actor": "Hrithik Roshan"
+  },
+  {
+    "id": "WS_013",
+    "dialogue": "Watan ke aage kuch nahi",
+    "correct_actor": "Alia Bhatt"
+  },
+  {
+    "id": "WS_014",
+    "dialogue": "Bandi ke peeche mat bhaago",
+    "correct_actor": "Shahid Kapoor"
+  },
+  {
+    "id": "WS_015",
+    "dialogue": "Sunayi de raha hai behra nahi hoon main",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_016",
+    "dialogue": "Light uss roshni ka naam hai",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_017",
+    "dialogue": "Sach ped ke beej ki tarah hota hai",
+    "correct_actor": "Ajay Devgn"
+  },
+  {
+    "id": "WS_018",
+    "dialogue": "How's the Josh",
+    "correct_actor": "Vicky Kaushal"
+  },
+  {
+    "id": "WS_019",
+    "dialogue": "Hum Bajrangbali ke bhakt hain",
+    "correct_actor": "Salman Khan"
+  },
+  {
+    "id": "WS_020",
+    "dialogue": "Koi tumhe tab tak nahi hara sakta",
+    "correct_actor": "Salman Khan"
+  },
+  {
+    "id": "WS_021",
+    "dialogue": "Shikaar toh sab karte hain",
+    "correct_actor": "Salman Khan"
+  },
+  {
+    "id": "WS_022",
+    "dialogue": "Jo bhi main kehna chahoon",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_023",
+    "dialogue": "Life mein sabse bada risk",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_024",
+    "dialogue": "Mera toh itna life kharab ho gaya",
+    "correct_actor": "Kangana Ranaut"
+  },
+  {
+    "id": "WS_025",
+    "dialogue": "Apna Time Aayega",
+    "correct_actor": "Ranveer Singh"
+  },
+  {
+    "id": "WS_026",
+    "dialogue": "All Izz Well",
+    "correct_actor": "Aamir Khan"
+  },
+  {
+    "id": "WS_027",
+    "dialogue": "Bete ko haath lagane se pehle baap se baat kar",
+    "correct_actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "WS_028",
+    "dialogue": "Party Pathaan ke ghar pe rakhoge",
+    "correct_actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "WS_029",
+    "dialogue": "Mhari chhoriyan chhoron se kam hain ke",
+    "correct_actor": "Aamir Khan"
+  },
+  {
+    "id": "WS_030",
+    "dialogue": "Tumhara result decide nahi karta tum loser ho ki nahi",
+    "correct_actor": "Sushant Singh Rajput"
+  },
+  {
+    "id": "WS_031",
+    "dialogue": "Wrong Number",
+    "correct_actor": "Aamir Khan"
+  },
+  {
+    "id": "WS_032",
+    "dialogue": "Aurat hi aurat ki dushman hoti hai",
+    "correct_actor": "Vidya Balan"
+  },
+  {
+    "id": "WS_033",
+    "dialogue": "Main udna chahta hoon",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_034",
+    "dialogue": "Insaan ko dibbe mein sirf tab hona chahiye",
+    "correct_actor": "Hrithik Roshan"
+  },
+  {
+    "id": "WS_035",
+    "dialogue": "Picture abhi baaki hai mere dost",
+    "correct_actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "WS_036",
+    "dialogue": "Don ko pakadna mushkil hi nahi namumkin hai",
+    "correct_actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "WS_037",
+    "dialogue": "Kabhi kabhi dushman ko harane ke liye",
+    "correct_actor": "Hrithik Roshan"
+  },
+  {
+    "id": "WS_038",
+    "dialogue": "Watan ke aage kuch nahi",
+    "correct_actor": "Alia Bhatt"
+  },
+  {
+    "id": "WS_039",
+    "dialogue": "Bandi ke peeche mat bhaago",
+    "correct_actor": "Shahid Kapoor"
+  },
+  {
+    "id": "WS_040",
+    "dialogue": "Sunayi de raha hai behra nahi hoon main",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_041",
+    "dialogue": "Light uss roshni ka naam hai",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_042",
+    "dialogue": "Sach ped ke beej ki tarah hota hai",
+    "correct_actor": "Ajay Devgn"
+  },
+  {
+    "id": "WS_043",
+    "dialogue": "How's the Josh",
+    "correct_actor": "Vicky Kaushal"
+  },
+  {
+    "id": "WS_044",
+    "dialogue": "Hum Bajrangbali ke bhakt hain",
+    "correct_actor": "Salman Khan"
+  },
+  {
+    "id": "WS_045",
+    "dialogue": "Koi tumhe tab tak nahi hara sakta",
+    "correct_actor": "Salman Khan"
+  },
+  {
+    "id": "WS_046",
+    "dialogue": "Shikaar toh sab karte hain",
+    "correct_actor": "Salman Khan"
+  },
+  {
+    "id": "WS_047",
+    "dialogue": "Jo bhi main kehna chahoon",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_048",
+    "dialogue": "Life mein sabse bada risk",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_049",
+    "dialogue": "Mera toh itna life kharab ho gaya",
+    "correct_actor": "Kangana Ranaut"
+  },
+  {
+    "id": "WS_050",
+    "dialogue": "Apna Time Aayega",
+    "correct_actor": "Ranveer Singh"
+  },
+  {
+    "id": "WS_051",
+    "dialogue": "All Izz Well",
+    "correct_actor": "Aamir Khan"
+  },
+  {
+    "id": "WS_052",
+    "dialogue": "Bete ko haath lagane se pehle baap se baat kar",
+    "correct_actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "WS_053",
+    "dialogue": "Party Pathaan ke ghar pe rakhoge",
+    "correct_actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "WS_054",
+    "dialogue": "Mhari chhoriyan chhoron se kam hain ke",
+    "correct_actor": "Aamir Khan"
+  },
+  {
+    "id": "WS_055",
+    "dialogue": "Tumhara result decide nahi karta tum loser ho ki nahi",
+    "correct_actor": "Sushant Singh Rajput"
+  },
+  {
+    "id": "WS_056",
+    "dialogue": "Wrong Number",
+    "correct_actor": "Aamir Khan"
+  },
+  {
+    "id": "WS_057",
+    "dialogue": "Aurat hi aurat ki dushman hoti hai",
+    "correct_actor": "Vidya Balan"
+  },
+  {
+    "id": "WS_058",
+    "dialogue": "Main udna chahta hoon",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_059",
+    "dialogue": "Insaan ko dibbe mein sirf tab hona chahiye",
+    "correct_actor": "Hrithik Roshan"
+  },
+  {
+    "id": "WS_060",
+    "dialogue": "Picture abhi baaki hai mere dost",
+    "correct_actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "WS_061",
+    "dialogue": "Don ko pakadna mushkil hi nahi namumkin hai",
+    "correct_actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "WS_062",
+    "dialogue": "Kabhi kabhi dushman ko harane ke liye",
+    "correct_actor": "Hrithik Roshan"
+  },
+  {
+    "id": "WS_063",
+    "dialogue": "Watan ke aage kuch nahi",
+    "correct_actor": "Alia Bhatt"
+  },
+  {
+    "id": "WS_064",
+    "dialogue": "Bandi ke peeche mat bhaago",
+    "correct_actor": "Shahid Kapoor"
+  },
+  {
+    "id": "WS_065",
+    "dialogue": "Sunayi de raha hai behra nahi hoon main",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_066",
+    "dialogue": "Light uss roshni ka naam hai",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_067",
+    "dialogue": "Sach ped ke beej ki tarah hota hai",
+    "correct_actor": "Ajay Devgn"
+  },
+  {
+    "id": "WS_068",
+    "dialogue": "How's the Josh",
+    "correct_actor": "Vicky Kaushal"
+  },
+  {
+    "id": "WS_069",
+    "dialogue": "Hum Bajrangbali ke bhakt hain",
+    "correct_actor": "Salman Khan"
+  },
+  {
+    "id": "WS_070",
+    "dialogue": "Koi tumhe tab tak nahi hara sakta",
+    "correct_actor": "Salman Khan"
+  },
+  {
+    "id": "WS_071",
+    "dialogue": "Shikaar toh sab karte hain",
+    "correct_actor": "Salman Khan"
+  },
+  {
+    "id": "WS_072",
+    "dialogue": "Jo bhi main kehna chahoon",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_073",
+    "dialogue": "Life mein sabse bada risk",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_074",
+    "dialogue": "Mera toh itna life kharab ho gaya",
+    "correct_actor": "Kangana Ranaut"
+  },
+  {
+    "id": "WS_075",
+    "dialogue": "Apna Time Aayega",
+    "correct_actor": "Ranveer Singh"
+  },
+  {
+    "id": "WS_076",
+    "dialogue": "All Izz Well",
+    "correct_actor": "Aamir Khan"
+  },
+  {
+    "id": "WS_077",
+    "dialogue": "Bete ko haath lagane se pehle baap se baat kar",
+    "correct_actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "WS_078",
+    "dialogue": "Party Pathaan ke ghar pe rakhoge",
+    "correct_actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "WS_079",
+    "dialogue": "Mhari chhoriyan chhoron se kam hain ke",
+    "correct_actor": "Aamir Khan"
+  },
+  {
+    "id": "WS_080",
+    "dialogue": "Tumhara result decide nahi karta tum loser ho ki nahi",
+    "correct_actor": "Sushant Singh Rajput"
+  },
+  {
+    "id": "WS_081",
+    "dialogue": "Wrong Number",
+    "correct_actor": "Aamir Khan"
+  },
+  {
+    "id": "WS_082",
+    "dialogue": "Aurat hi aurat ki dushman hoti hai",
+    "correct_actor": "Vidya Balan"
+  },
+  {
+    "id": "WS_083",
+    "dialogue": "Main udna chahta hoon",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_084",
+    "dialogue": "Insaan ko dibbe mein sirf tab hona chahiye",
+    "correct_actor": "Hrithik Roshan"
+  },
+  {
+    "id": "WS_085",
+    "dialogue": "Picture abhi baaki hai mere dost",
+    "correct_actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "WS_086",
+    "dialogue": "Don ko pakadna mushkil hi nahi namumkin hai",
+    "correct_actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "WS_087",
+    "dialogue": "Kabhi kabhi dushman ko harane ke liye",
+    "correct_actor": "Hrithik Roshan"
+  },
+  {
+    "id": "WS_088",
+    "dialogue": "Watan ke aage kuch nahi",
+    "correct_actor": "Alia Bhatt"
+  },
+  {
+    "id": "WS_089",
+    "dialogue": "Bandi ke peeche mat bhaago",
+    "correct_actor": "Shahid Kapoor"
+  },
+  {
+    "id": "WS_090",
+    "dialogue": "Sunayi de raha hai behra nahi hoon main",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_091",
+    "dialogue": "Light uss roshni ka naam hai",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_092",
+    "dialogue": "Sach ped ke beej ki tarah hota hai",
+    "correct_actor": "Ajay Devgn"
+  },
+  {
+    "id": "WS_093",
+    "dialogue": "How's the Josh",
+    "correct_actor": "Vicky Kaushal"
+  },
+  {
+    "id": "WS_094",
+    "dialogue": "Hum Bajrangbali ke bhakt hain",
+    "correct_actor": "Salman Khan"
+  },
+  {
+    "id": "WS_095",
+    "dialogue": "Koi tumhe tab tak nahi hara sakta",
+    "correct_actor": "Salman Khan"
+  },
+  {
+    "id": "WS_096",
+    "dialogue": "Shikaar toh sab karte hain",
+    "correct_actor": "Salman Khan"
+  },
+  {
+    "id": "WS_097",
+    "dialogue": "Jo bhi main kehna chahoon",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_098",
+    "dialogue": "Life mein sabse bada risk",
+    "correct_actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "WS_099",
+    "dialogue": "Mera toh itna life kharab ho gaya",
+    "correct_actor": "Kangana Ranaut"
+  },
+  {
+    "id": "WS_100",
+    "dialogue": "Apna Time Aayega",
+    "correct_actor": "Ranveer Singh"
+  }
+]

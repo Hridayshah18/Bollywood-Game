@@ -1,0 +1,602 @@
+[
+  {
+    "id": "DD_001",
+    "dialogue": "All Izz Well",
+    "movie": "3 Idiots",
+    "actor": "Aamir Khan"
+  },
+  {
+    "id": "DD_002",
+    "dialogue": "Bete ko haath lagane se pehle baap se baat kar",
+    "movie": "Jawan",
+    "actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "DD_003",
+    "dialogue": "Party Pathaan ke ghar pe rakhoge",
+    "movie": "Pathaan",
+    "actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "DD_004",
+    "dialogue": "Mhari chhoriyan chhoron se kam hain ke",
+    "movie": "Dangal",
+    "actor": "Aamir Khan"
+  },
+  {
+    "id": "DD_005",
+    "dialogue": "Tumhara result decide nahi karta tum loser ho ki nahi",
+    "movie": "Chhichhore",
+    "actor": "Sushant Singh Rajput"
+  },
+  {
+    "id": "DD_006",
+    "dialogue": "Wrong Number",
+    "movie": "PK",
+    "actor": "Aamir Khan"
+  },
+  {
+    "id": "DD_007",
+    "dialogue": "Aurat hi aurat ki dushman hoti hai",
+    "movie": "Bhool Bhulaiyaa",
+    "actor": "Vidya Balan"
+  },
+  {
+    "id": "DD_008",
+    "dialogue": "Main udna chahta hoon",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_009",
+    "dialogue": "Insaan ko dibbe mein sirf tab hona chahiye",
+    "movie": "ZNMD",
+    "actor": "Hrithik Roshan"
+  },
+  {
+    "id": "DD_010",
+    "dialogue": "Picture abhi baaki hai mere dost",
+    "movie": "Om Shanti Om",
+    "actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "DD_011",
+    "dialogue": "Don ko pakadna mushkil hi nahi namumkin hai",
+    "movie": "Don",
+    "actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "DD_012",
+    "dialogue": "Kabhi kabhi dushman ko harane ke liye",
+    "movie": "War",
+    "actor": "Hrithik Roshan"
+  },
+  {
+    "id": "DD_013",
+    "dialogue": "Watan ke aage kuch nahi",
+    "movie": "Raazi",
+    "actor": "Alia Bhatt"
+  },
+  {
+    "id": "DD_014",
+    "dialogue": "Bandi ke peeche mat bhaago",
+    "movie": "Kabir Singh",
+    "actor": "Shahid Kapoor"
+  },
+  {
+    "id": "DD_015",
+    "dialogue": "Sunayi de raha hai behra nahi hoon main",
+    "movie": "Animal",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_016",
+    "dialogue": "Light uss roshni ka naam hai",
+    "movie": "Brahmastra",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_017",
+    "dialogue": "Sach ped ke beej ki tarah hota hai",
+    "movie": "Drishyam",
+    "actor": "Ajay Devgn"
+  },
+  {
+    "id": "DD_018",
+    "dialogue": "How's the Josh",
+    "movie": "Uri",
+    "actor": "Vicky Kaushal"
+  },
+  {
+    "id": "DD_019",
+    "dialogue": "Hum Bajrangbali ke bhakt hain",
+    "movie": "Bajrangi Bhaijaan",
+    "actor": "Salman Khan"
+  },
+  {
+    "id": "DD_020",
+    "dialogue": "Koi tumhe tab tak nahi hara sakta",
+    "movie": "Sultan",
+    "actor": "Salman Khan"
+  },
+  {
+    "id": "DD_021",
+    "dialogue": "Shikaar toh sab karte hain",
+    "movie": "Tiger Zinda Hai",
+    "actor": "Salman Khan"
+  },
+  {
+    "id": "DD_022",
+    "dialogue": "Jo bhi main kehna chahoon",
+    "movie": "Rockstar",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_023",
+    "dialogue": "Life mein sabse bada risk",
+    "movie": "Barfi",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_024",
+    "dialogue": "Mera toh itna life kharab ho gaya",
+    "movie": "Queen",
+    "actor": "Kangana Ranaut"
+  },
+  {
+    "id": "DD_025",
+    "dialogue": "Apna Time Aayega",
+    "movie": "Gully Boy",
+    "actor": "Ranveer Singh"
+  },
+  {
+    "id": "DD_026",
+    "dialogue": "All Izz Well",
+    "movie": "3 Idiots",
+    "actor": "Aamir Khan"
+  },
+  {
+    "id": "DD_027",
+    "dialogue": "Bete ko haath lagane se pehle baap se baat kar",
+    "movie": "Jawan",
+    "actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "DD_028",
+    "dialogue": "Party Pathaan ke ghar pe rakhoge",
+    "movie": "Pathaan",
+    "actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "DD_029",
+    "dialogue": "Mhari chhoriyan chhoron se kam hain ke",
+    "movie": "Dangal",
+    "actor": "Aamir Khan"
+  },
+  {
+    "id": "DD_030",
+    "dialogue": "Tumhara result decide nahi karta tum loser ho ki nahi",
+    "movie": "Chhichhore",
+    "actor": "Sushant Singh Rajput"
+  },
+  {
+    "id": "DD_031",
+    "dialogue": "Wrong Number",
+    "movie": "PK",
+    "actor": "Aamir Khan"
+  },
+  {
+    "id": "DD_032",
+    "dialogue": "Aurat hi aurat ki dushman hoti hai",
+    "movie": "Bhool Bhulaiyaa",
+    "actor": "Vidya Balan"
+  },
+  {
+    "id": "DD_033",
+    "dialogue": "Main udna chahta hoon",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_034",
+    "dialogue": "Insaan ko dibbe mein sirf tab hona chahiye",
+    "movie": "ZNMD",
+    "actor": "Hrithik Roshan"
+  },
+  {
+    "id": "DD_035",
+    "dialogue": "Picture abhi baaki hai mere dost",
+    "movie": "Om Shanti Om",
+    "actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "DD_036",
+    "dialogue": "Don ko pakadna mushkil hi nahi namumkin hai",
+    "movie": "Don",
+    "actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "DD_037",
+    "dialogue": "Kabhi kabhi dushman ko harane ke liye",
+    "movie": "War",
+    "actor": "Hrithik Roshan"
+  },
+  {
+    "id": "DD_038",
+    "dialogue": "Watan ke aage kuch nahi",
+    "movie": "Raazi",
+    "actor": "Alia Bhatt"
+  },
+  {
+    "id": "DD_039",
+    "dialogue": "Bandi ke peeche mat bhaago",
+    "movie": "Kabir Singh",
+    "actor": "Shahid Kapoor"
+  },
+  {
+    "id": "DD_040",
+    "dialogue": "Sunayi de raha hai behra nahi hoon main",
+    "movie": "Animal",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_041",
+    "dialogue": "Light uss roshni ka naam hai",
+    "movie": "Brahmastra",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_042",
+    "dialogue": "Sach ped ke beej ki tarah hota hai",
+    "movie": "Drishyam",
+    "actor": "Ajay Devgn"
+  },
+  {
+    "id": "DD_043",
+    "dialogue": "How's the Josh",
+    "movie": "Uri",
+    "actor": "Vicky Kaushal"
+  },
+  {
+    "id": "DD_044",
+    "dialogue": "Hum Bajrangbali ke bhakt hain",
+    "movie": "Bajrangi Bhaijaan",
+    "actor": "Salman Khan"
+  },
+  {
+    "id": "DD_045",
+    "dialogue": "Koi tumhe tab tak nahi hara sakta",
+    "movie": "Sultan",
+    "actor": "Salman Khan"
+  },
+  {
+    "id": "DD_046",
+    "dialogue": "Shikaar toh sab karte hain",
+    "movie": "Tiger Zinda Hai",
+    "actor": "Salman Khan"
+  },
+  {
+    "id": "DD_047",
+    "dialogue": "Jo bhi main kehna chahoon",
+    "movie": "Rockstar",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_048",
+    "dialogue": "Life mein sabse bada risk",
+    "movie": "Barfi",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_049",
+    "dialogue": "Mera toh itna life kharab ho gaya",
+    "movie": "Queen",
+    "actor": "Kangana Ranaut"
+  },
+  {
+    "id": "DD_050",
+    "dialogue": "Apna Time Aayega",
+    "movie": "Gully Boy",
+    "actor": "Ranveer Singh"
+  },
+  {
+    "id": "DD_051",
+    "dialogue": "All Izz Well",
+    "movie": "3 Idiots",
+    "actor": "Aamir Khan"
+  },
+  {
+    "id": "DD_052",
+    "dialogue": "Bete ko haath lagane se pehle baap se baat kar",
+    "movie": "Jawan",
+    "actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "DD_053",
+    "dialogue": "Party Pathaan ke ghar pe rakhoge",
+    "movie": "Pathaan",
+    "actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "DD_054",
+    "dialogue": "Mhari chhoriyan chhoron se kam hain ke",
+    "movie": "Dangal",
+    "actor": "Aamir Khan"
+  },
+  {
+    "id": "DD_055",
+    "dialogue": "Tumhara result decide nahi karta tum loser ho ki nahi",
+    "movie": "Chhichhore",
+    "actor": "Sushant Singh Rajput"
+  },
+  {
+    "id": "DD_056",
+    "dialogue": "Wrong Number",
+    "movie": "PK",
+    "actor": "Aamir Khan"
+  },
+  {
+    "id": "DD_057",
+    "dialogue": "Aurat hi aurat ki dushman hoti hai",
+    "movie": "Bhool Bhulaiyaa",
+    "actor": "Vidya Balan"
+  },
+  {
+    "id": "DD_058",
+    "dialogue": "Main udna chahta hoon",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_059",
+    "dialogue": "Insaan ko dibbe mein sirf tab hona chahiye",
+    "movie": "ZNMD",
+    "actor": "Hrithik Roshan"
+  },
+  {
+    "id": "DD_060",
+    "dialogue": "Picture abhi baaki hai mere dost",
+    "movie": "Om Shanti Om",
+    "actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "DD_061",
+    "dialogue": "Don ko pakadna mushkil hi nahi namumkin hai",
+    "movie": "Don",
+    "actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "DD_062",
+    "dialogue": "Kabhi kabhi dushman ko harane ke liye",
+    "movie": "War",
+    "actor": "Hrithik Roshan"
+  },
+  {
+    "id": "DD_063",
+    "dialogue": "Watan ke aage kuch nahi",
+    "movie": "Raazi",
+    "actor": "Alia Bhatt"
+  },
+  {
+    "id": "DD_064",
+    "dialogue": "Bandi ke peeche mat bhaago",
+    "movie": "Kabir Singh",
+    "actor": "Shahid Kapoor"
+  },
+  {
+    "id": "DD_065",
+    "dialogue": "Sunayi de raha hai behra nahi hoon main",
+    "movie": "Animal",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_066",
+    "dialogue": "Light uss roshni ka naam hai",
+    "movie": "Brahmastra",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_067",
+    "dialogue": "Sach ped ke beej ki tarah hota hai",
+    "movie": "Drishyam",
+    "actor": "Ajay Devgn"
+  },
+  {
+    "id": "DD_068",
+    "dialogue": "How's the Josh",
+    "movie": "Uri",
+    "actor": "Vicky Kaushal"
+  },
+  {
+    "id": "DD_069",
+    "dialogue": "Hum Bajrangbali ke bhakt hain",
+    "movie": "Bajrangi Bhaijaan",
+    "actor": "Salman Khan"
+  },
+  {
+    "id": "DD_070",
+    "dialogue": "Koi tumhe tab tak nahi hara sakta",
+    "movie": "Sultan",
+    "actor": "Salman Khan"
+  },
+  {
+    "id": "DD_071",
+    "dialogue": "Shikaar toh sab karte hain",
+    "movie": "Tiger Zinda Hai",
+    "actor": "Salman Khan"
+  },
+  {
+    "id": "DD_072",
+    "dialogue": "Jo bhi main kehna chahoon",
+    "movie": "Rockstar",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_073",
+    "dialogue": "Life mein sabse bada risk",
+    "movie": "Barfi",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_074",
+    "dialogue": "Mera toh itna life kharab ho gaya",
+    "movie": "Queen",
+    "actor": "Kangana Ranaut"
+  },
+  {
+    "id": "DD_075",
+    "dialogue": "Apna Time Aayega",
+    "movie": "Gully Boy",
+    "actor": "Ranveer Singh"
+  },
+  {
+    "id": "DD_076",
+    "dialogue": "All Izz Well",
+    "movie": "3 Idiots",
+    "actor": "Aamir Khan"
+  },
+  {
+    "id": "DD_077",
+    "dialogue": "Bete ko haath lagane se pehle baap se baat kar",
+    "movie": "Jawan",
+    "actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "DD_078",
+    "dialogue": "Party Pathaan ke ghar pe rakhoge",
+    "movie": "Pathaan",
+    "actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "DD_079",
+    "dialogue": "Mhari chhoriyan chhoron se kam hain ke",
+    "movie": "Dangal",
+    "actor": "Aamir Khan"
+  },
+  {
+    "id": "DD_080",
+    "dialogue": "Tumhara result decide nahi karta tum loser ho ki nahi",
+    "movie": "Chhichhore",
+    "actor": "Sushant Singh Rajput"
+  },
+  {
+    "id": "DD_081",
+    "dialogue": "Wrong Number",
+    "movie": "PK",
+    "actor": "Aamir Khan"
+  },
+  {
+    "id": "DD_082",
+    "dialogue": "Aurat hi aurat ki dushman hoti hai",
+    "movie": "Bhool Bhulaiyaa",
+    "actor": "Vidya Balan"
+  },
+  {
+    "id": "DD_083",
+    "dialogue": "Main udna chahta hoon",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_084",
+    "dialogue": "Insaan ko dibbe mein sirf tab hona chahiye",
+    "movie": "ZNMD",
+    "actor": "Hrithik Roshan"
+  },
+  {
+    "id": "DD_085",
+    "dialogue": "Picture abhi baaki hai mere dost",
+    "movie": "Om Shanti Om",
+    "actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "DD_086",
+    "dialogue": "Don ko pakadna mushkil hi nahi namumkin hai",
+    "movie": "Don",
+    "actor": "Shah Rukh Khan"
+  },
+  {
+    "id": "DD_087",
+    "dialogue": "Kabhi kabhi dushman ko harane ke liye",
+    "movie": "War",
+    "actor": "Hrithik Roshan"
+  },
+  {
+    "id": "DD_088",
+    "dialogue": "Watan ke aage kuch nahi",
+    "movie": "Raazi",
+    "actor": "Alia Bhatt"
+  },
+  {
+    "id": "DD_089",
+    "dialogue": "Bandi ke peeche mat bhaago",
+    "movie": "Kabir Singh",
+    "actor": "Shahid Kapoor"
+  },
+  {
+    "id": "DD_090",
+    "dialogue": "Sunayi de raha hai behra nahi hoon main",
+    "movie": "Animal",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_091",
+    "dialogue": "Light uss roshni ka naam hai",
+    "movie": "Brahmastra",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_092",
+    "dialogue": "Sach ped ke beej ki tarah hota hai",
+    "movie": "Drishyam",
+    "actor": "Ajay Devgn"
+  },
+  {
+    "id": "DD_093",
+    "dialogue": "How's the Josh",
+    "movie": "Uri",
+    "actor": "Vicky Kaushal"
+  },
+  {
+    "id": "DD_094",
+    "dialogue": "Hum Bajrangbali ke bhakt hain",
+    "movie": "Bajrangi Bhaijaan",
+    "actor": "Salman Khan"
+  },
+  {
+    "id": "DD_095",
+    "dialogue": "Koi tumhe tab tak nahi hara sakta",
+    "movie": "Sultan",
+    "actor": "Salman Khan"
+  },
+  {
+    "id": "DD_096",
+    "dialogue": "Shikaar toh sab karte hain",
+    "movie": "Tiger Zinda Hai",
+    "actor": "Salman Khan"
+  },
+  {
+    "id": "DD_097",
+    "dialogue": "Jo bhi main kehna chahoon",
+    "movie": "Rockstar",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_098",
+    "dialogue": "Life mein sabse bada risk",
+    "movie": "Barfi",
+    "actor": "Ranbir Kapoor"
+  },
+  {
+    "id": "DD_099",
+    "dialogue": "Mera toh itna life kharab ho gaya",
+    "movie": "Queen",
+    "actor": "Kangana Ranaut"
+  },
+  {
+    "id": "DD_100",
+    "dialogue": "Apna Time Aayega",
+    "movie": "Gully Boy",
+    "actor": "Ranveer Singh"
+  }
+]

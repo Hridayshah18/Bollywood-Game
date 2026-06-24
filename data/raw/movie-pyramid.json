@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "MP_001",
+    "movie": "3 Idiots",
+    "clues": [
+      "Aamir Khan",
+      "2000",
+      "All Izz Well",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_002",
+    "movie": "Jawan",
+    "clues": [
+      "Shah Rukh Khan",
+      "2001",
+      "Bete ko haath lagane",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_003",
+    "movie": "Pathaan",
+    "clues": [
+      "Shah Rukh Khan",
+      "2002",
+      "Party Pathaan ke gha",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_004",
+    "movie": "Dangal",
+    "clues": [
+      "Aamir Khan",
+      "2003",
+      "Mhari chhoriyan chho",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_005",
+    "movie": "Chhichhore",
+    "clues": [
+      "Sushant Singh Rajput",
+      "2004",
+      "Tumhara result decid",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_006",
+    "movie": "PK",
+    "clues": [
+      "Aamir Khan",
+      "2005",
+      "Wrong Number",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_007",
+    "movie": "Bhool Bhulaiyaa",
+    "clues": [
+      "Vidya Balan",
+      "2006",
+      "Aurat hi aurat ki du",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_008",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "clues": [
+      "Ranbir Kapoor",
+      "2007",
+      "Main udna chahta hoo",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_009",
+    "movie": "ZNMD",
+    "clues": [
+      "Hrithik Roshan",
+      "2008",
+      "Insaan ko dibbe mein",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_010",
+    "movie": "Om Shanti Om",
+    "clues": [
+      "Shah Rukh Khan",
+      "2009",
+      "Picture abhi baaki h",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_011",
+    "movie": "Don",
+    "clues": [
+      "Shah Rukh Khan",
+      "2010",
+      "Don ko pakadna mushk",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_012",
+    "movie": "War",
+    "clues": [
+      "Hrithik Roshan",
+      "2011",
+      "Kabhi kabhi dushman ",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_013",
+    "movie": "Raazi",
+    "clues": [
+      "Alia Bhatt",
+      "2012",
+      "Watan ke aage kuch n",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_014",
+    "movie": "Kabir Singh",
+    "clues": [
+      "Shahid Kapoor",
+      "2013",
+      "Bandi ke peeche mat ",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_015",
+    "movie": "Animal",
+    "clues": [
+      "Ranbir Kapoor",
+      "2014",
+      "Sunayi de raha hai b",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_016",
+    "movie": "Brahmastra",
+    "clues": [
+      "Ranbir Kapoor",
+      "2015",
+      "Light uss roshni ka ",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_017",
+    "movie": "Drishyam",
+    "clues": [
+      "Ajay Devgn",
+      "2016",
+      "Sach ped ke beej ki ",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_018",
+    "movie": "Uri",
+    "clues": [
+      "Vicky Kaushal",
+      "2017",
+      "How's the Josh",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_019",
+    "movie": "Bajrangi Bhaijaan",
+    "clues": [
+      "Salman Khan",
+      "2018",
+      "Hum Bajrangbali ke b",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_020",
+    "movie": "Sultan",
+    "clues": [
+      "Salman Khan",
+      "2019",
+      "Koi tumhe tab tak na",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_021",
+    "movie": "Tiger Zinda Hai",
+    "clues": [
+      "Salman Khan",
+      "2020",
+      "Shikaar toh sab kart",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_022",
+    "movie": "Rockstar",
+    "clues": [
+      "Ranbir Kapoor",
+      "2021",
+      "Jo bhi main kehna ch",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_023",
+    "movie": "Barfi",
+    "clues": [
+      "Ranbir Kapoor",
+      "2022",
+      "Life mein sabse bada",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_024",
+    "movie": "Queen",
+    "clues": [
+      "Kangana Ranaut",
+      "2023",
+      "Mera toh itna life k",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_025",
+    "movie": "Gully Boy",
+    "clues": [
+      "Ranveer Singh",
+      "2024",
+      "Apna Time Aayega",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_026",
+    "movie": "3 Idiots",
+    "clues": [
+      "Aamir Khan",
+      "2000",
+      "All Izz Well",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_027",
+    "movie": "Jawan",
+    "clues": [
+      "Shah Rukh Khan",
+      "2001",
+      "Bete ko haath lagane",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_028",
+    "movie": "Pathaan",
+    "clues": [
+      "Shah Rukh Khan",
+      "2002",
+      "Party Pathaan ke gha",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_029",
+    "movie": "Dangal",
+    "clues": [
+      "Aamir Khan",
+      "2003",
+      "Mhari chhoriyan chho",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_030",
+    "movie": "Chhichhore",
+    "clues": [
+      "Sushant Singh Rajput",
+      "2004",
+      "Tumhara result decid",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_031",
+    "movie": "PK",
+    "clues": [
+      "Aamir Khan",
+      "2005",
+      "Wrong Number",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_032",
+    "movie": "Bhool Bhulaiyaa",
+    "clues": [
+      "Vidya Balan",
+      "2006",
+      "Aurat hi aurat ki du",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_033",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "clues": [
+      "Ranbir Kapoor",
+      "2007",
+      "Main udna chahta hoo",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_034",
+    "movie": "ZNMD",
+    "clues": [
+      "Hrithik Roshan",
+      "2008",
+      "Insaan ko dibbe mein",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_035",
+    "movie": "Om Shanti Om",
+    "clues": [
+      "Shah Rukh Khan",
+      "2009",
+      "Picture abhi baaki h",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_036",
+    "movie": "Don",
+    "clues": [
+      "Shah Rukh Khan",
+      "2010",
+      "Don ko pakadna mushk",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_037",
+    "movie": "War",
+    "clues": [
+      "Hrithik Roshan",
+      "2011",
+      "Kabhi kabhi dushman ",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_038",
+    "movie": "Raazi",
+    "clues": [
+      "Alia Bhatt",
+      "2012",
+      "Watan ke aage kuch n",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_039",
+    "movie": "Kabir Singh",
+    "clues": [
+      "Shahid Kapoor",
+      "2013",
+      "Bandi ke peeche mat ",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_040",
+    "movie": "Animal",
+    "clues": [
+      "Ranbir Kapoor",
+      "2014",
+      "Sunayi de raha hai b",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_041",
+    "movie": "Brahmastra",
+    "clues": [
+      "Ranbir Kapoor",
+      "2015",
+      "Light uss roshni ka ",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_042",
+    "movie": "Drishyam",
+    "clues": [
+      "Ajay Devgn",
+      "2016",
+      "Sach ped ke beej ki ",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_043",
+    "movie": "Uri",
+    "clues": [
+      "Vicky Kaushal",
+      "2017",
+      "How's the Josh",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_044",
+    "movie": "Bajrangi Bhaijaan",
+    "clues": [
+      "Salman Khan",
+      "2018",
+      "Hum Bajrangbali ke b",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_045",
+    "movie": "Sultan",
+    "clues": [
+      "Salman Khan",
+      "2019",
+      "Koi tumhe tab tak na",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_046",
+    "movie": "Tiger Zinda Hai",
+    "clues": [
+      "Salman Khan",
+      "2020",
+      "Shikaar toh sab kart",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_047",
+    "movie": "Rockstar",
+    "clues": [
+      "Ranbir Kapoor",
+      "2021",
+      "Jo bhi main kehna ch",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_048",
+    "movie": "Barfi",
+    "clues": [
+      "Ranbir Kapoor",
+      "2022",
+      "Life mein sabse bada",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_049",
+    "movie": "Queen",
+    "clues": [
+      "Kangana Ranaut",
+      "2023",
+      "Mera toh itna life k",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_050",
+    "movie": "Gully Boy",
+    "clues": [
+      "Ranveer Singh",
+      "2024",
+      "Apna Time Aayega",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_051",
+    "movie": "3 Idiots",
+    "clues": [
+      "Aamir Khan",
+      "2000",
+      "All Izz Well",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_052",
+    "movie": "Jawan",
+    "clues": [
+      "Shah Rukh Khan",
+      "2001",
+      "Bete ko haath lagane",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_053",
+    "movie": "Pathaan",
+    "clues": [
+      "Shah Rukh Khan",
+      "2002",
+      "Party Pathaan ke gha",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_054",
+    "movie": "Dangal",
+    "clues": [
+      "Aamir Khan",
+      "2003",
+      "Mhari chhoriyan chho",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_055",
+    "movie": "Chhichhore",
+    "clues": [
+      "Sushant Singh Rajput",
+      "2004",
+      "Tumhara result decid",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_056",
+    "movie": "PK",
+    "clues": [
+      "Aamir Khan",
+      "2005",
+      "Wrong Number",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_057",
+    "movie": "Bhool Bhulaiyaa",
+    "clues": [
+      "Vidya Balan",
+      "2006",
+      "Aurat hi aurat ki du",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_058",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "clues": [
+      "Ranbir Kapoor",
+      "2007",
+      "Main udna chahta hoo",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_059",
+    "movie": "ZNMD",
+    "clues": [
+      "Hrithik Roshan",
+      "2008",
+      "Insaan ko dibbe mein",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_060",
+    "movie": "Om Shanti Om",
+    "clues": [
+      "Shah Rukh Khan",
+      "2009",
+      "Picture abhi baaki h",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_061",
+    "movie": "Don",
+    "clues": [
+      "Shah Rukh Khan",
+      "2010",
+      "Don ko pakadna mushk",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_062",
+    "movie": "War",
+    "clues": [
+      "Hrithik Roshan",
+      "2011",
+      "Kabhi kabhi dushman ",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_063",
+    "movie": "Raazi",
+    "clues": [
+      "Alia Bhatt",
+      "2012",
+      "Watan ke aage kuch n",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_064",
+    "movie": "Kabir Singh",
+    "clues": [
+      "Shahid Kapoor",
+      "2013",
+      "Bandi ke peeche mat ",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_065",
+    "movie": "Animal",
+    "clues": [
+      "Ranbir Kapoor",
+      "2014",
+      "Sunayi de raha hai b",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_066",
+    "movie": "Brahmastra",
+    "clues": [
+      "Ranbir Kapoor",
+      "2015",
+      "Light uss roshni ka ",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_067",
+    "movie": "Drishyam",
+    "clues": [
+      "Ajay Devgn",
+      "2016",
+      "Sach ped ke beej ki ",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_068",
+    "movie": "Uri",
+    "clues": [
+      "Vicky Kaushal",
+      "2017",
+      "How's the Josh",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_069",
+    "movie": "Bajrangi Bhaijaan",
+    "clues": [
+      "Salman Khan",
+      "2018",
+      "Hum Bajrangbali ke b",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_070",
+    "movie": "Sultan",
+    "clues": [
+      "Salman Khan",
+      "2019",
+      "Koi tumhe tab tak na",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_071",
+    "movie": "Tiger Zinda Hai",
+    "clues": [
+      "Salman Khan",
+      "2020",
+      "Shikaar toh sab kart",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_072",
+    "movie": "Rockstar",
+    "clues": [
+      "Ranbir Kapoor",
+      "2021",
+      "Jo bhi main kehna ch",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_073",
+    "movie": "Barfi",
+    "clues": [
+      "Ranbir Kapoor",
+      "2022",
+      "Life mein sabse bada",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_074",
+    "movie": "Queen",
+    "clues": [
+      "Kangana Ranaut",
+      "2023",
+      "Mera toh itna life k",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_075",
+    "movie": "Gully Boy",
+    "clues": [
+      "Ranveer Singh",
+      "2024",
+      "Apna Time Aayega",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_076",
+    "movie": "3 Idiots",
+    "clues": [
+      "Aamir Khan",
+      "2000",
+      "All Izz Well",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_077",
+    "movie": "Jawan",
+    "clues": [
+      "Shah Rukh Khan",
+      "2001",
+      "Bete ko haath lagane",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_078",
+    "movie": "Pathaan",
+    "clues": [
+      "Shah Rukh Khan",
+      "2002",
+      "Party Pathaan ke gha",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_079",
+    "movie": "Dangal",
+    "clues": [
+      "Aamir Khan",
+      "2003",
+      "Mhari chhoriyan chho",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_080",
+    "movie": "Chhichhore",
+    "clues": [
+      "Sushant Singh Rajput",
+      "2004",
+      "Tumhara result decid",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_081",
+    "movie": "PK",
+    "clues": [
+      "Aamir Khan",
+      "2005",
+      "Wrong Number",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_082",
+    "movie": "Bhool Bhulaiyaa",
+    "clues": [
+      "Vidya Balan",
+      "2006",
+      "Aurat hi aurat ki du",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_083",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "clues": [
+      "Ranbir Kapoor",
+      "2007",
+      "Main udna chahta hoo",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_084",
+    "movie": "ZNMD",
+    "clues": [
+      "Hrithik Roshan",
+      "2008",
+      "Insaan ko dibbe mein",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_085",
+    "movie": "Om Shanti Om",
+    "clues": [
+      "Shah Rukh Khan",
+      "2009",
+      "Picture abhi baaki h",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_086",
+    "movie": "Don",
+    "clues": [
+      "Shah Rukh Khan",
+      "2010",
+      "Don ko pakadna mushk",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_087",
+    "movie": "War",
+    "clues": [
+      "Hrithik Roshan",
+      "2011",
+      "Kabhi kabhi dushman ",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_088",
+    "movie": "Raazi",
+    "clues": [
+      "Alia Bhatt",
+      "2012",
+      "Watan ke aage kuch n",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_089",
+    "movie": "Kabir Singh",
+    "clues": [
+      "Shahid Kapoor",
+      "2013",
+      "Bandi ke peeche mat ",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_090",
+    "movie": "Animal",
+    "clues": [
+      "Ranbir Kapoor",
+      "2014",
+      "Sunayi de raha hai b",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_091",
+    "movie": "Brahmastra",
+    "clues": [
+      "Ranbir Kapoor",
+      "2015",
+      "Light uss roshni ka ",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_092",
+    "movie": "Drishyam",
+    "clues": [
+      "Ajay Devgn",
+      "2016",
+      "Sach ped ke beej ki ",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_093",
+    "movie": "Uri",
+    "clues": [
+      "Vicky Kaushal",
+      "2017",
+      "How's the Josh",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_094",
+    "movie": "Bajrangi Bhaijaan",
+    "clues": [
+      "Salman Khan",
+      "2018",
+      "Hum Bajrangbali ke b",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_095",
+    "movie": "Sultan",
+    "clues": [
+      "Salman Khan",
+      "2019",
+      "Koi tumhe tab tak na",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_096",
+    "movie": "Tiger Zinda Hai",
+    "clues": [
+      "Salman Khan",
+      "2020",
+      "Shikaar toh sab kart",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_097",
+    "movie": "Rockstar",
+    "clues": [
+      "Ranbir Kapoor",
+      "2021",
+      "Jo bhi main kehna ch",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_098",
+    "movie": "Barfi",
+    "clues": [
+      "Ranbir Kapoor",
+      "2022",
+      "Life mein sabse bada",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_099",
+    "movie": "Queen",
+    "clues": [
+      "Kangana Ranaut",
+      "2023",
+      "Mera toh itna life k",
+      "Bollywood Hit"
+    ]
+  },
+  {
+    "id": "MP_100",
+    "movie": "Gully Boy",
+    "clues": [
+      "Ranveer Singh",
+      "2024",
+      "Apna Time Aayega",
+      "Bollywood Hit"
+    ]
+  }
+]
