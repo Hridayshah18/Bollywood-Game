@@ -278,8 +278,8 @@ This project is intended to be released under the **MIT License**. Add a `LICENS
 
 | Name | GitHub |
 | ---- | ------ |
-| [Add your name here] | [@YOUR_USERNAME](https://github.com/YOUR_USERNAME) |
-
+| Hriday Shah | [@Hridayshah18](https://github.com/Hridayshah18) |
+| mokshesh sheth | [@shethmokshesh08-jpg](https://github.com/shethmokshesh08-jpg) |
 ---
 
 ## 🙌 Acknowledgments
@@ -289,13 +289,3 @@ This project is intended to be released under the **MIT License**. Add a `LICENS
 * Bollywood films, dialogues, and entertainment culture that inspired the game content
 
 ---
-
-## ✅ Manual Edits Before Publishing
-
-* Replace `YOUR_USERNAME`
-* Add real screenshot
-* Add GitHub Pages link
-* Confirm author name
-* Confirm license
-* Test all links
-* Make sure screenshot and live demo sections are not inside code blocks
