@@ -228,13 +228,14 @@ The interface updates through React rendering and conditional screen components.
 
 ## 📸 Screenshots
 
-[Add screenshot here]
+<img width="1890" height="1078" alt="image" src="https://github.com/user-attachments/assets/4a80d83c-57eb-4a33-8e87-06c7fdad5fba" />
+
 
 ---
 
 ## 🌐 Live Demo
 
-[Play Bollywood Game here](https://YOUR_USERNAME.github.io/bollywood-game/)
+[[Play Bollywood Game here](https://YOUR_USERNAME.github.io/bollywood-game/)](https://expressit.online/games/bollyverse)
 
 ---
 
